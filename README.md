@@ -20,7 +20,7 @@ pip install -r requirements.txt
 3. Run the script using Python:
 
 ```bash
-python phone_details_lookup.py
+python Phone_details_lookup.py
 ```
 
 4. Follow the prompts to enter the country code and phone number for which you want to look up details.
