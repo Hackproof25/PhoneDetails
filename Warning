@@ -1,0 +1,18 @@
+# WARNING: Phone Details Lookup Tool
+
+**Important Notice:** This tool is designed to extract and display information related to phone numbers, including country, carrier, location, time zone, and additional details using the Truecaller API.
+
+**Privacy and Security Warning:**
+
+1. **Data Extraction:** The tool retrieves information from external sources, including third-party APIs. Exercise caution when using this tool, as it may access and display sensitive or personal information related to phone numbers.
+
+2. **Truecaller API:** To fetch additional details such as name, father's name, and live location, the tool uses the Truecaller API. You must have a valid Truecaller API key to access these features. Ensure that you comply with Truecaller's terms of service and privacy policies.
+
+3. **User Responsibility:** Users of this tool are responsible for ensuring that they have the legal right to access and use the information retrieved. Avoid using this tool for unauthorized or unethical purposes, such as accessing private information without consent.
+
+4. **Use with Caution:** Exercise caution and respect privacy laws and regulations applicable in your jurisdiction. Understand the implications of extracting and processing personal data before using this tool.
+
+**Disclaimer:** The creators and contributors of this tool are not liable for any misuse, unauthorized access, or legal consequences resulting from the use of this tool. Use it responsibly and ethically.
+
+---
+**Note:** Replace "Your-Truecaller-API-Key" in the code with your actual Truecaller API key before using the tool. Refer to the project's README and documentation for usage guidelines and additional information.
